@@ -1,0 +1,81 @@
+-----------------------------DONE------------------------------------
+Homepage before LogIn
+1.Font size
+2.Country dropdown posion 
+3.Country dropdown icon (arrow icon)
+4.Country dropdown listitems popup.
+5.LogIn button Height and width
+6.Kanlife group >> Health, Medical, Wellness image position and dimention issue
+7.Our Blogs>> Forward and Backward icons.
+8.Testimonials>>Background Color not applied.
+-----------------------------DONE------------------------------------
+LogIn Page
+1.Font size
+2.Login popup height and width
+3.Textbox width, padding issue
+4.Place holder text colour
+-----------------------------DONE------------------------------------
+Forgot password popup
+1.Font size
+2.Forgot password popup height and width
+3.Textbox width, Padding
+4.Reset password button width.
+5.Place holder text colour
+-----------------------------DONE------------------------------------
+Register popup
+1.Font size
+2.Register popup height and width
+3.Place holder text colour
+4.Textbox width, padding issue
+5.Register button width. 
+-----------------------------DONE------------------------------------
+Home page after login
+1.Tab popup design
+2.Profile dropdown image not as design
+3.Our blogs>> Forward and backward arrow icons not as design and position issue
+4.Home page>> Testimonials>> Background color issue
+5.CEO's desk, our team, Our blogs,Our brands section's top margin given more
+-----------------------------DONE------------------------------------
+Home page Singapore/London
+1.Our blogs>> Forward and backward arrow icons not as design and position issue
+2.Home page>> Testimonials>> Background color issue
+-----------------------------DONE------------------------------------
+Our Team
+1.Our blogs>> Forward and backward arrow icons not as design and position issue
+2.Home page>> Testimonials>> Background color issue
+3.Selected tab(About Us)>> dropdown icon not same
+-----------------------------DONE------------------------------------
+Our Story
+1.Mission, Vision, CEO's desk, Get in touch: top and bottom margin issue.
+-----------------------------DONE------------------------------------
+Category:
+1.Top categories>> Backward and forward icons not as design.
+2.Featured products>> Backward and forward icons not as design.
+-----------------------------DONE------------------------------------
+Products:
+1.Product categories, Filter by price section width and height issue.
+1.Filter by Price Dropdown icon and Default sorting Dropdown icon.
+2.Default sorting dropdown is too small
+3.Product's height and width not as design
+-----------------------------DONE------------------------------------
+Product details/ Products enquiry page.
+1.Font , image height, width.
+2.Products links section width too high.
+-----------------------------DONE------------------------------------
+Cart:
+1.Font size, Button hight and width.
+2.Increment and decrement font size.
+-----------------------------DONE------------------------------------
+My Checkout:
+1.Textbox hight width, padding, place holder color issue
+-----------------------------DONE------------------------------------
+My Orders/Order details/My accounts/
+1.Show dropdown arrow issue.
+2.Image hight
+3. not as expected design.
+-----------------------------DONE------------------------------------
+My Wishlist
+1.Image height width
+2.Font size
+3.Remove icon size.
+-----------------------------DONE------------------------------------
